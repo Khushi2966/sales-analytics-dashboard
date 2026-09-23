@@ -1,0 +1,101 @@
+Order_ID,Date,Region,Salesperson,Product,Category,Units,Unit_Price,Total_Sales
+ORD001,2026-03-12,South,Priya,Monitor,Electronics,1,18000,18000
+ORD002,2026-06-23,North,Vikram,Keyboard,Accessories,2,1500,3000
+ORD003,2026-01-08,North,Priya,Printer,Office Equipment,1,12000,12000
+ORD004,2026-05-24,South,Neha,Mouse,Accessories,1,800,800
+ORD005,2026-02-26,West,Vikram,Desk,Furniture,7,14000,98000
+ORD006,2026-02-10,West,Rahul,Headphones,Accessories,1,2500,2500
+ORD007,2026-02-25,East,Aarav,Headphones,Accessories,3,2500,7500
+ORD008,2026-01-25,East,Rahul,Monitor,Electronics,7,18000,126000
+ORD009,2026-01-12,West,Vikram,Webcam,Electronics,5,3500,17500
+ORD010,2026-01-21,East,Neha,Monitor,Electronics,7,18000,126000
+ORD011,2026-05-28,South,Neha,Webcam,Electronics,6,3500,21000
+ORD012,2026-06-19,South,Rahul,Monitor,Electronics,1,18000,18000
+ORD013,2026-01-26,West,Rahul,Monitor,Electronics,4,18000,72000
+ORD014,2026-02-11,East,Rahul,Office Chair,Furniture,6,9000,54000
+ORD015,2026-06-29,North,Vikram,Mouse,Accessories,5,800,4000
+ORD016,2026-02-11,West,Ananya,Keyboard,Accessories,4,1500,6000
+ORD017,2026-06-25,East,Aarav,Headphones,Accessories,4,2500,10000
+ORD018,2026-03-22,West,Rahul,Mouse,Accessories,1,800,800
+ORD019,2026-05-26,East,Priya,Monitor,Electronics,4,18000,72000
+ORD020,2026-06-14,West,Priya,Office Chair,Furniture,7,9000,63000
+ORD021,2026-03-05,East,Neha,Headphones,Accessories,3,2500,7500
+ORD022,2026-05-30,West,Rahul,Webcam,Electronics,7,3500,24500
+ORD023,2026-05-11,West,Aarav,Mouse,Accessories,3,800,2400
+ORD024,2026-02-09,South,Neha,Laptop,Electronics,2,55000,110000
+ORD025,2026-04-09,West,Vikram,Printer,Office Equipment,2,12000,24000
+ORD026,2026-05-22,North,Neha,Office Chair,Furniture,5,9000,45000
+ORD027,2026-06-14,East,Aarav,Monitor,Electronics,5,18000,90000
+ORD028,2026-02-10,West,Aarav,Headphones,Accessories,7,2500,17500
+ORD029,2026-05-10,North,Neha,Headphones,Accessories,3,2500,7500
+ORD030,2026-02-09,East,Priya,Headphones,Accessories,4,2500,10000
+ORD031,2026-06-03,East,Ananya,Desk,Furniture,1,14000,14000
+ORD032,2026-04-03,East,Priya,Laptop,Electronics,2,55000,110000
+ORD033,2026-05-26,North,Aarav,Laptop,Electronics,4,55000,220000
+ORD034,2026-05-17,South,Priya,Office Chair,Furniture,2,9000,18000
+ORD035,2026-03-09,West,Priya,Office Chair,Furniture,3,9000,27000
+ORD036,2026-03-21,West,Neha,Desk,Furniture,4,14000,56000
+ORD037,2026-05-13,West,Aarav,Tablet,Electronics,8,28000,224000
+ORD038,2026-01-17,East,Aarav,Mouse,Accessories,4,800,3200
+ORD039,2026-05-31,South,Aarav,Webcam,Electronics,4,3500,14000
+ORD040,2026-02-28,North,Aarav,Monitor,Electronics,1,18000,18000
+ORD041,2026-05-12,South,Rahul,Tablet,Electronics,2,28000,56000
+ORD042,2026-05-19,South,Neha,Office Chair,Furniture,4,9000,36000
+ORD043,2026-03-04,West,Ananya,Webcam,Electronics,8,3500,28000
+ORD044,2026-01-25,West,Rahul,Mouse,Accessories,2,800,1600
+ORD045,2026-04-30,North,Neha,Printer,Office Equipment,7,12000,84000
+ORD046,2026-04-14,East,Aarav,Monitor,Electronics,1,18000,18000
+ORD047,2026-02-18,West,Priya,Mouse,Accessories,4,800,3200
+ORD048,2026-03-13,West,Priya,Printer,Office Equipment,3,12000,36000
+ORD049,2026-05-21,North,Aarav,Monitor,Electronics,8,18000,144000
+ORD050,2026-01-24,South,Priya,Desk,Furniture,1,14000,14000
+ORD051,2026-05-04,South,Ananya,Printer,Office Equipment,8,12000,96000
+ORD052,2026-04-08,North,Ananya,Laptop,Electronics,3,55000,165000
+ORD053,2026-03-15,West,Neha,Headphones,Accessories,8,2500,20000
+ORD054,2026-02-09,South,Rahul,Desk,Furniture,8,14000,112000
+ORD055,2026-05-29,North,Neha,Mouse,Accessories,1,800,800
+ORD056,2026-01-13,West,Vikram,Tablet,Electronics,1,28000,28000
+ORD057,2026-01-15,North,Priya,Desk,Furniture,3,14000,42000
+ORD058,2026-06-22,South,Ananya,Monitor,Electronics,2,18000,36000
+ORD059,2026-05-29,North,Vikram,Monitor,Electronics,4,18000,72000
+ORD060,2026-06-18,East,Rahul,Monitor,Electronics,7,18000,126000
+ORD061,2026-03-03,East,Ananya,Mouse,Accessories,6,800,4800
+ORD062,2026-04-28,East,Aarav,Keyboard,Accessories,5,1500,7500
+ORD063,2026-06-09,North,Aarav,Laptop,Electronics,8,55000,440000
+ORD064,2026-05-10,East,Priya,Desk,Furniture,4,14000,56000
+ORD065,2026-03-04,East,Rahul,Tablet,Electronics,2,28000,56000
+ORD066,2026-05-20,East,Vikram,Keyboard,Accessories,8,1500,12000
+ORD067,2026-06-20,East,Neha,Desk,Furniture,1,14000,14000
+ORD068,2026-03-09,North,Aarav,Monitor,Electronics,3,18000,54000
+ORD069,2026-03-11,East,Vikram,Desk,Furniture,3,14000,42000
+ORD070,2026-02-22,East,Vikram,Mouse,Accessories,6,800,4800
+ORD071,2026-01-14,North,Neha,Office Chair,Furniture,5,9000,45000
+ORD072,2026-01-12,North,Rahul,Printer,Office Equipment,5,12000,60000
+ORD073,2026-02-11,West,Vikram,Keyboard,Accessories,5,1500,7500
+ORD074,2026-01-29,North,Neha,Printer,Office Equipment,1,12000,12000
+ORD075,2026-04-05,South,Ananya,Keyboard,Accessories,1,1500,1500
+ORD076,2026-03-20,East,Aarav,Keyboard,Accessories,1,1500,1500
+ORD077,2026-06-24,South,Neha,Tablet,Electronics,4,28000,112000
+ORD078,2026-05-24,West,Vikram,Monitor,Electronics,6,18000,108000
+ORD079,2026-02-11,South,Ananya,Keyboard,Accessories,4,1500,6000
+ORD080,2026-03-27,West,Neha,Laptop,Electronics,3,55000,165000
+ORD081,2026-02-10,North,Ananya,Mouse,Accessories,5,800,4000
+ORD082,2026-02-26,South,Ananya,Laptop,Electronics,8,55000,440000
+ORD083,2026-02-28,South,Aarav,Tablet,Electronics,5,28000,140000
+ORD084,2026-03-26,East,Aarav,Mouse,Accessories,7,800,5600
+ORD085,2026-06-14,West,Neha,Headphones,Accessories,6,2500,15000
+ORD086,2026-01-08,North,Rahul,Desk,Furniture,6,14000,84000
+ORD087,2026-01-10,North,Vikram,Keyboard,Accessories,5,1500,7500
+ORD088,2026-03-22,West,Vikram,Printer,Office Equipment,6,12000,72000
+ORD089,2026-04-09,South,Rahul,Desk,Furniture,2,14000,28000
+ORD090,2026-01-01,South,Rahul,Laptop,Electronics,7,55000,385000
+ORD091,2026-06-20,East,Vikram,Printer,Office Equipment,2,12000,24000
+ORD092,2026-03-18,East,Neha,Tablet,Electronics,2,28000,56000
+ORD093,2026-04-14,East,Vikram,Printer,Office Equipment,6,12000,72000
+ORD094,2026-04-18,West,Neha,Keyboard,Accessories,4,1500,6000
+ORD095,2026-04-14,North,Rahul,Keyboard,Accessories,5,1500,7500
+ORD096,2026-04-21,East,Ananya,Headphones,Accessories,4,2500,10000
+ORD097,2026-06-22,South,Vikram,Office Chair,Furniture,8,9000,72000
+ORD098,2026-06-18,North,Rahul,Office Chair,Furniture,3,9000,27000
+ORD099,2026-01-24,South,Neha,Desk,Furniture,6,14000,84000
+ORD100,2026-02-20,South,Aarav,Headphones,Accessories,4,2500,10000
