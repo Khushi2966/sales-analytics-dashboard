@@ -1,5 +1,4 @@
 -- SALES ANALYTICS PROJECT
--- SQL Practice Queries 1-50
 -- Database: sales_analytics
 -- Table: sales_data
 
